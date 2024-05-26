@@ -1,2 +1,1 @@
-# Signup-SignIn-System
-A logIn system in python
+Signup/SignIn system
